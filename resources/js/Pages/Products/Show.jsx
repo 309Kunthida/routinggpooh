@@ -20,7 +20,7 @@ export default function Show({ product }) {
                 <div className="flex justify-center">
                     <Link
                         href="/products"
-                        className="bg-pink-500 text-white px-6 py-2 rounded-full text-lg hover:bg-pink-700 transition duration-300"
+                        className="bg-green-500 text-white px-6 py-2 rounded-full text-lg hover:bg-green-700 transition duration-300"
                     >
                         Back to All Products
                     </Link>
